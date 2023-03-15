@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=VizanIcon.ico Vizan.py
